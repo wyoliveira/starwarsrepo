@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./falcon-ship.jpg](Falcon Ship)
+![Falcon Ship](./falcon-ship.jpg)
 
 Este repositório serve de exemplo para o curso de Git.
